@@ -6,7 +6,7 @@
       "description": "Description 1",
       "price": 100,
       "rating": 5,
-      "image": "https://via.placeholder.com/150"
+      "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "description": "Description 2",
       "price": 200,
       "rating": 4,
-      "image": "https://via.placeholder.com/150"
+      "image": "https://images.unsplash.com/photo-1513708928491-241fa21a5def"
     }
   ]
 }
