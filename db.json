@@ -2,16 +2,16 @@
   "products": [
     {
       "id": 1,
-      "name": "Artisanal Coffee Beans",
-      "description": "High-quality coffee beans sourced from the finest growers.",
+      "name": "Apple",
+      "description": "High-quality apples sourced from the finest growers.",
       "price": 100,
       "rating": 5,
       "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     },
     {
       "id": 2,
-      "name": "Classic Sunglasses",
-      "description": "Stylish and timeless sunglasses for any occasion.",
+      "name": "Classic Shoes",
+      "description": "Stylish and timeless shoes for sport.",
       "price": 200,
       "rating": 4,
       "image": "https://images.unsplash.com/photo-1718417286278-b383b8a8ad6d?q=80&w=1927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -34,8 +34,8 @@
     },
     {
       "id": 5,
-      "name": "Luxury Watch",
-      "description": "A sophisticated watch for the modern gentleman.",
+      "name": "Sport Shoes",
+      "description": "A sport shoes for the modern player.",
       "price": 300,
       "rating": 5,
       "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
@@ -58,8 +58,8 @@
     },
     {
       "id": 8,
-      "name": "Modern Desk Lamp",
-      "description": "Illuminate your workspace with this sleek and modern desk lamp.",
+      "name": "Vintage Camera",
+      "description": "Illuminate your workspace with this sleek and vintage cmara.",
       "price": 220,
       "rating": 3.9,
       "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
