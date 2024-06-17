@@ -2,19 +2,83 @@
   "products": [
     {
       "id": 1,
-      "name": "Product 1",
-      "description": "Description 1",
+      "name": "Artisanal Coffee Beans",
+      "description": "High-quality coffee beans sourced from the finest growers.",
       "price": 100,
       "rating": 5,
       "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     },
     {
       "id": 2,
-      "name": "Product 2",
-      "description": "Description 2",
+      "name": "Classic Sunglasses",
+      "description": "Stylish and timeless sunglasses for any occasion.",
       "price": 200,
       "rating": 4,
       "image": "https://images.unsplash.com/photo-1718417286278-b383b8a8ad6d?q=80&w=1927&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "Rustic Mug",
+      "description": "A beautiful rustic mug perfect for your morning coffee.",
+      "price": 150,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1581291519195-ef11498d1cf5"
+    },
+    {
+      "id": 4,
+      "name": "Vintage Camera",
+      "description": "Capture memories with this stylish vintage camera.",
+      "price": 250,
+      "rating": 3.5,
+      "image": "https://images.unsplash.com/photo-1574169208507-843761748c68"
+    },
+    {
+      "id": 5,
+      "name": "Luxury Watch",
+      "description": "A sophisticated watch for the modern gentleman.",
+      "price": 300,
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 6,
+      "name": "Classic Headphones",
+      "description": "Experience high-quality sound with these classic headphones.",
+      "price": 175,
+      "rating": 4,
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c"
+    },
+    {
+      "id": 7,
+      "name": "Leather Wallet",
+      "description": "A durable leather wallet that combines style and functionality.",
+      "price": 125,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1504691342899-a2d3c13d3d41"
+    },
+    {
+      "id": 8,
+      "name": "Modern Desk Lamp",
+      "description": "Illuminate your workspace with this sleek and modern desk lamp.",
+      "price": 220,
+      "rating": 3.9,
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    },
+    {
+      "id": 9,
+      "name": "Elegant Sofa",
+      "description": "Relax in style with this comfortable and elegant sofa.",
+      "price": 275,
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1499346030926-9a72daac6c62"
+    },
+    {
+      "id": 10,
+      "name": "Cozy Blanket",
+      "description": "Stay warm and cozy with this soft and fluffy blanket.",
+      "price": 310,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1514412076814-55e789d48a03"
     }
   ]
 }
